@@ -1,0 +1,9 @@
+langchain==0.3.4
+langchain-core==0.3.12
+langchain-community==0.3.3
+langchain-openai==0.2.3
+python-dotenv==1.0.1
+streamlit==1.39.0
+pydantic==2.9.2
+watchdog==5.0.3
+ipykernel==6.29.5
